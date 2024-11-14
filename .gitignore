@@ -1,6 +1,5 @@
 .ipynb_checkpoints/
 proj1/
-movie_recommandation_system.ipynb
 tmdb_5000_credits.csv
 tmdb_5000_movies.csv
 similarity.pkl
